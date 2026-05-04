@@ -45,16 +45,16 @@ This project focuses on backend fundamentals such as performance optimization, s
 ## Project Structure
 
 
-/project-root
-│
-├── index.php # Main UI
-├── save.php # URL creation logic
-├── redirect.php # Redirection logic
-├── analytics.php # View stored URLs
-├── cleanup.php # Cleanup script
-├── db.php # Database connection
-├── functions.php # Helper functions
-├── cache/ # Cached URL data
+/project-root<br>
+│<br>
+├── index.php # Main UI<br>
+├── save.php # URL creation logic<br>
+├── redirect.php # Redirection logic<br>
+├── analytics.php # View stored URLs<br>
+├── cleanup.php # Cleanup script<br>
+├── db.php # Database connection<br>
+├── functions.php # Helper functions<br>
+├── cache/ # Cached URL data<br>
 └── style.css # UI styling
 
 
